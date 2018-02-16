@@ -1,6 +1,6 @@
 ## Ricky Hewitt
 
-Hello prospective employers! I'm a Junior Developer. Please have a look at my website: http://ricky.hewitt.tech/
+Hello prospective employers! I'm a Junior Developer.
 
 ## Skills
 
@@ -16,15 +16,7 @@ All my work-experience has been in Teaching and Hospitality. My favourite part o
 
 **Makers Academy** 2018
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby: Rails, RSpec
-- JavaScript: React, Express, Jasmine
-- HTML, CSS
+- Learn about my Programming at: http://ricky.hewitt.tech/
 
 **CIMA Certificate in Business Accounting** 2017 - 2018
 
