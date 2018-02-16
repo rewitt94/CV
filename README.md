@@ -25,7 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+**Makers Academy** 2018
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -37,22 +37,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - JavaScript: React, Express, Jasmine
 - Python, Rust, Java, SQL (used briefly)
 
-#### University of Bristol 2013 - 2016
+**CIMA Certificate in Business Accounting** 2017 - 2018
+
+**120-Hour TEFL (TEFL Academy)** 2016
+
+**University of Bristol** 2013 - 2016
 
 - BSc Mathematics (2:1)
 - Opted for Applied Mathematics modules.
 
-#### A-Levels 2012
+**A-Levels** 2012
 
 - Mathematics (A*)
 - Further Mathematics (A*)
 - Chemistry (A)
 - Phyiscs (A)
-
-#### Other qualifications
-
-- CIMA Certificate in Business Accounting (2017-2018)
-- 120-Hour TEFL (TEFL Academy) (2016)
 
 ## Work Experience
 
@@ -71,7 +70,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Excellent experience in customer service where I enjoyed client based interaction and personally made the guests feel comfortable in our chalet.
 - Our chalet received great customer feedback and the best tip in our resort.
 
-**Kitchen Porter - Hotel Plan Limited (Winter Ski Season)**	2012-2013
+**Kitchen Porter - Hotel Plan Limited (Winter Ski Season)**	2012 - 2013
 - Working in an Inghams chalet-hotel kitchen that provided breakfast, afternoon tea and a three course dinner for up to 42 guests. 
 - Went far beyond job role as the chalet-hotel was understaffed. In addition, made cakes daily, cooked the staff meals, made breakfasts for guests, took in deliveries, did stock checks and helped the hotel assistants clean.
 - Demonstrated ability to work well with a team in a high-pressure environment; 70-80 hours a week for minimal pay.
@@ -94,7 +93,7 @@ Tutored at our schools’ affiliated primary school one lunchtime per week.
 
 - Running: I went from smoking 10 ciggarettes a day to doing my first half marathon in September!
 - Writing: I was the only non-native in my writing classes in Tenerife (writing in Spanish). Sometimes I write about gypsies and alternate dimensions.
-- Spanish: I've learnt competent Spanish so that I c
+- Spanish: Learning Spanish has been a personal goal (and obviously I enjoy it).
 - Accountancy: (not really.)
 - Programming: Woooo-hoooo!
 
