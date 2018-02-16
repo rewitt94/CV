@@ -2,26 +2,17 @@
 
 Hello prospective employers! Please have a look at my website http://ricky.hewitt.tech/!
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm a Junior Developer looking to start a career.
 
 ## Skills
 
-#### This Skill
+#### Logic
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I have always displayed logical skills. In school I received UK Mathematical Trust Challenge (3 x Gold), British Physics AS Olympiad (Silver), Cambridge Chemistry Challenge (Silver). I also won the 6th form Physics Prize. Since discovering programmming problem-solving is more satisfying than ever. Now I can solve problems to build things (how cool is that)!
 
-- Experience
-- Achievements
-- Evidence
+#### Communication Skills
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+All my work-experience has been in Teaching and Hospitality. My favourite part of hospitality was customer service.
 
 ## Education
 
@@ -35,7 +26,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Agile/XP
 - Ruby: Rails, RSpec
 - JavaScript: React, Express, Jasmine
-- Python, Rust, Java, SQL (used briefly)
 
 **CIMA Certificate in Business Accounting** 2017 - 2018
 
@@ -84,10 +74,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - The Fairtrade Café team won the University of Bristol Student Leadership Award. (2016)
 
 **Tutoring Maths & English in Quetzaltenango (Guatemala)** 2013
-Tutored at the language school where I took Spanish classes.
+- Tutored at the language school where I took Spanish classes.
 
 **Tutoring Maths at St Mary’s Primary School (Reigate, UK)** 2011 - 2012
-Tutored at our schools’ affiliated primary school one lunchtime per week.
+- Tutored at our schools’ affiliated primary school one lunchtime per week.
 
 ## Likes (Y)
 
@@ -101,4 +91,4 @@ Tutored at our schools’ affiliated primary school one lunchtime per week.
 
 Short-answer: Luck.
 
-Long-answer: I studied Maths at university because I was good at it. I graduated unsure what to do with my life (and with bad backpain). I worked in Tenerife because it was hot. In the autumn I moved to back to Spain (this time Madrid) to look for a job, but quickly decided it didn't want to be a teacher/waiter forever. Now I've just finished a CIMA Certificate in Business Accounting because it seemed logical. However, somewhere along the line I started getting distracted by programming (initially solving these  https://projecteuler.net/ with Python). Now I know it's what I want to do! I am really EXCITED to do something that I enjoy day-to-day!
+Long-answer: I studied Maths at university because I was good at it. I graduated unsure what to do with my life (and with bad backpain). I worked in Tenerife because it was hot. In the autumn I moved to back to Spain (this time Madrid) to look for a job, but quickly decided it didn't want to be a teacher/waiter forever. Now I've just finished a CIMA Certificate in Business Accounting because it seemed logical. However, somewhere along the line I started getting distracted by programming (initially solving these  https://projecteuler.net/ with Python). Now I know it's what I want to do! I am really EXCITED to do something that I enjoy day-to-day!!!
