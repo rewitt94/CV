@@ -1,8 +1,6 @@
 ## Ricky Hewitt
 
-Hello prospective employers! Please have a look at my website http://ricky.hewitt.tech/!
-
-I'm a Junior Developer looking to start a career.
+Hello prospective employers! I'm a Junior Developer. Please have a look at my website: http://ricky.hewitt.tech/
 
 ## Skills
 
@@ -26,6 +24,7 @@ All my work-experience has been in Teaching and Hospitality. My favourite part o
 - Agile/XP
 - Ruby: Rails, RSpec
 - JavaScript: React, Express, Jasmine
+- HTML, CSS
 
 **CIMA Certificate in Business Accounting** 2017 - 2018
 
@@ -84,7 +83,7 @@ All my work-experience has been in Teaching and Hospitality. My favourite part o
 - Running: I went from smoking 10 ciggarettes a day to doing my first half marathon in September!
 - Writing: I was the only non-native in my writing classes in Tenerife (writing in Spanish). Sometimes I write about gypsies and alternate dimensions.
 - Spanish: Learning Spanish has been a personal goal (and obviously I enjoy it).
-- Accountancy: (not really.)
+- Accountancy: Ha.
 - Programming: Woooo-hoooo!
 
 ## How I Got Here
