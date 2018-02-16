@@ -16,7 +16,7 @@ All my work-experience has been in Teaching and Hospitality. My favourite part o
 
 **Makers Academy** 2018
 
-- Learn about my Programming at: http://ricky.hewitt.tech/
+- Learn about my Programming at: http://ricky.hewitt.tech/ (currently in development)
 
 **CIMA Certificate in Business Accounting** 2017 - 2018
 
