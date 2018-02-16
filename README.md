@@ -40,7 +40,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### University of Bristol 2013 - 2016
 
 - BSc Mathematics (2:1)
-- Other stuff..
+- Opted for Applied Mathematics modules.
 
 #### A-Levels 2012
 
@@ -56,43 +56,38 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Work Experience
 
-** TEFL Teaching Assistant - BEDA (Tenerife, Spain) ** 2016 - 2017
+**TEFL Teaching Assistant - BEDA (Tenerife, Spain)** 2016 - 2017
 - Responsible for preparing and teaching English to classes of up to 28 students.
 - Required strong organisation and public speaking skills. 
 - Developed a range of teaching styles for Kindergarten, Primary and Secondary. 
 - Coordinated with teachers across the school, as all classes were taught under supervision. 
 
-** Catering Assistant - Anise Catering (Event Catering, Part-Time) **			2013
+**Catering Assistant - Anise Catering (Event Catering, Part-Time)** 2013
 - Roles included wedding service, set-up, cashier or bar work.
 - Had to be adaptable and work with different teams at each event.
 
-** Chalet Host - Hotel Plan Limited (Winter Ski Season)	**				2013
+**Chalet Host - Hotel Plan Limited (Winter Ski Season)** 2013
 - Worked in a team of two to clean, cook for and entertain a chalet of nine guests.
 - Excellent experience in customer service where I enjoyed client based interaction and personally made the guests feel comfortable in our chalet.
 - Our chalet received great customer feedback and the best tip in our resort.
 
-** Kitchen Porter - Hotel Plan Limited (Winter Ski Season) **					2012-2013
+**Kitchen Porter - Hotel Plan Limited (Winter Ski Season)**	2012-2013
 - Working in an Inghams chalet-hotel kitchen that provided breakfast, afternoon tea and a three course dinner for up to 42 guests. 
 - Went far beyond job role as the chalet-hotel was understaffed. In addition, made cakes daily, cooked the staff meals, made breakfasts for guests, took in deliveries, did stock checks and helped the hotel assistants clean.
 - Demonstrated ability to work well with a team in a high-pressure environment; 70-80 hours a week for minimal pay.
 
+## Voluntary Work
 
-
-** Anise Cateering ** (start_date to end_date)   
-*Your job title*  
-
-## Voluntary Work
-
-** Café Coordinator at Fairtrade Café (University of Bristol)	**			2015 - 2016
+**Café Coordinator at Fairtrade Café (University of Bristol)** 2015 - 2016
 - Collaborated as a key member in a successful student run project. Working alongside my best friend this was one of my favourite university experiences.
 - The Fairtrade Café was a vegan, organic, charity café that ran every friday lunchtime.
 - Very popular for it’s great atmosphere and value-for-money prices.
 - The Fairtrade Café team won the University of Bristol Student Leadership Award. (2016)
 
-** Tutoring Maths & English in Quetzaltenango (Guatemala)	**			2013
+**Tutoring Maths & English in Quetzaltenango (Guatemala)** 2013
 Tutored at the language school where I took Spanish classes.
 
-** Tutoring Maths at St Mary’s Primary School (Reigate, UK)	**			2011 - 2012
+**Tutoring Maths at St Mary’s Primary School (Reigate, UK)** 2011 - 2012
 Tutored at our schools’ affiliated primary school one lunchtime per week.
 
 ## Likes (Y)
