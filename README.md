@@ -74,7 +74,7 @@ All my work-experience has been in Teaching (TEFL) and Hospitality. Controlling 
 - Running: I went from smoking 10 ciggarettes a day to doing my first half marathon in September!
 - Writing: I was the only non-native in my writing classes in Tenerife (writing in Spanish). Sometimes I write about gypsies and alternate dimensions.
 - Spanish: Learning Spanish has been a personal achievement.
-- Accountancy: Ha.
+- Accountancy: Haha (not really).
 - Programming: Woooo-hoooo!
 
 ## How I Got Here
