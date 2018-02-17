@@ -1,6 +1,6 @@
 ## Ricky Hewitt
 
-Hello prospective employers! I'm a Junior Developer.
+Hello prospective employers! I'm a Junior Developer. Learn about my Programming at: http://ricky.hewitt.tech/ (currently in development)
 
 ## Skills
 
@@ -15,8 +15,6 @@ All my work-experience has been in Teaching and Hospitality. My favourite part o
 ## Education
 
 **Makers Academy** 2018
-
-- Learn about my Programming at: http://ricky.hewitt.tech/ (currently in development)
 
 **CIMA Certificate in Business Accounting** 2017 - 2018
 
