@@ -6,11 +6,11 @@ Hello prospective employers! I'm a Junior Developer. Learn about my Programming 
 
 #### Logic
 
-I have always displayed logical skills. In school I received UK Mathematical Trust Challenge (3 x Gold), British Physics AS Olympiad (Silver), Cambridge Chemistry Challenge (Silver). I also won the 6th form Physics Prize. Since discovering programmming problem-solving is more satisfying than ever. Now I can solve problems to build things (how cool is that)!
+I have always had strong logic. Not to brag, but this is a CV. In school I received UK Mathematical Trust Challenge (3 x Gold), British Physics AS Olympiad (Silver), Cambridge Chemistry Challenge (Silver). I also won the 6th form Physics Prize. Since discovering programmming problem-solving is more satisfying than ever. Now I can solve problems to build things (how cool is that)!
 
 #### Communication Skills
 
-All my work-experience has been in Teaching and Hospitality. My favourite part of hospitality was customer service.
+All my work-experience has been in Teaching (TEFL) and Hospitality. Controlling a room of twenty-five plus students in a second-language requires public speaking skills. My favourite part of hospitality was customer service (small talk) - me and a colleage once received a €400 tip.
 
 ## Education
 
@@ -57,10 +57,11 @@ All my work-experience has been in Teaching and Hospitality. My favourite part o
 ## Voluntary Work
 
 **Café Coordinator at Fairtrade Café (University of Bristol)** 2015 - 2016
+- The Fairtrade Café team won the University of Bristol Student Leadership Award (2016).
 - Collaborated as a key member in a successful student run project. Working alongside my best friend this was one of my favourite university experiences.
 - The Fairtrade Café was a vegan, organic, charity café that ran every friday lunchtime.
 - Very popular for it’s great atmosphere and value-for-money prices.
-- The Fairtrade Café team won the University of Bristol Student Leadership Award. (2016)
+
 
 **Tutoring Maths & English in Quetzaltenango (Guatemala)** 2013
 - Tutored at the language school where I took Spanish classes.
@@ -72,7 +73,7 @@ All my work-experience has been in Teaching and Hospitality. My favourite part o
 
 - Running: I went from smoking 10 ciggarettes a day to doing my first half marathon in September!
 - Writing: I was the only non-native in my writing classes in Tenerife (writing in Spanish). Sometimes I write about gypsies and alternate dimensions.
-- Spanish: Learning Spanish has been a personal goal (and obviously I enjoy it).
+- Spanish: Learning Spanish has been a personal achievement.
 - Accountancy: Ha.
 - Programming: Woooo-hoooo!
 
@@ -80,4 +81,4 @@ All my work-experience has been in Teaching and Hospitality. My favourite part o
 
 Short-answer: Luck.
 
-Long-answer: I studied Maths at university because I was good at it. I graduated unsure what to do with my life (and with bad backpain). I worked in Tenerife because it was hot. In the autumn I moved to back to Spain (this time Madrid) to look for a job, but quickly decided it didn't want to be a teacher/waiter forever. Now I've just finished a CIMA Certificate in Business Accounting because it seemed logical. However, somewhere along the line I started getting distracted by programming (initially solving these  https://projecteuler.net/ with Python). Now I know it's what I want to do! I am really EXCITED to do something that I enjoy day-to-day!!!
+Long-answer: I studied Maths at university because I was good at it. I graduated unsure what to do with my life (and with bad backpain). I worked in Tenerife because it was hot. In the autumn I moved to back to Spain (this time Madrid) to look for a job, but quickly decided it didn't want to be a teacher/waiter forever. Now I've just finished a CIMA Certificate in Business Accounting because it seemed logical. However, somewhere along the line I started getting distracted by programming (initially solving these  https://projecteuler.net/ with Python). Now I know it's what I want to do! I am really EXCITED to do something that I enjoy day-to-day!!
