@@ -10,7 +10,7 @@ I have always had strong logic. Not to brag, but this is a CV. In school I recei
 
 #### Communication Skills
 
-All my work-experience has been in Teaching (TEFL) and Hospitality. Controlling a room of twenty-five plus students in a second-language requires public speaking skills. My favourite part of hospitality was customer service (small talk) - me and a colleage once received a €400 tip.
+All my work-experience has been in Teaching (TEFL) and Hospitality. Controlling a room of twenty-plus students in a second-language requires public speaking skills. My favourite part of hospitality was customer service (small talk) - me and a colleage once received a €400 tip.
 
 ## Education
 
