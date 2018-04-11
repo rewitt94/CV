@@ -1,3 +1,5 @@
+[Coding](#coding)  |  [Skills](#skills) | [Education](#education) | [Work Experience](#Work Experience) | [Voluntary Work](#Voluntary Work) | [Hobbies] (#Hobbies)
+
 # Ricky Hewitt
 
 To cut to the chase, I'm a Junior Developer.
@@ -71,7 +73,7 @@ All my work-experience has been in Teaching (TEFL) and Hospitality. Controlling 
 
 **Tutoring Maths at St Mary’s Primary School (Reigate, UK)** 2011 - 2012
 
-## Hobbies & Interests
+## Hobbies
 
 - Exercise: Health has become super important in the last year; I completed my first Half Marathon in September
 - Writing: Both code and fiction.
