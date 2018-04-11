@@ -1,4 +1,4 @@
-[Coding](#coding)  |  [Skills](#skills) | [Education](#education) | [Work Experience](#Work Experience) | [Voluntary Work](#Voluntary Work) | [Hobbies] (#Hobbies)
+[Coding](#coding)  |  [Skills](#skills) | [Education](#sducation) | [Work Experience](#work_experience) | [Voluntary Work](#Voluntary Work) | [Hobbies] (#Hobbies)
 
 # Ricky Hewitt
 
