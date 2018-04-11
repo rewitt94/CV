@@ -17,11 +17,11 @@ As it is a React app I cannot link individual pages so here's a quick index:
 
 #### Logic
 
-I have always had strong logic. Not to brag, but this is a CV. In school I received UK Mathematical Trust Challenge (3 x Gold), British Physics AS Olympiad (Silver), Cambridge Chemistry Challenge (Silver). I also won the 6th form Physics Prize. Since discovering programmming problem-solving is more satisfying than ever.
+In school I received UK Mathematical Trust Challenge (3 x Gold), British Physics AS Olympiad (Silver), Cambridge Chemistry Challenge (Silver). I also won the 6th form Physics Prize. Since discovering programmming problem-solving is more satisfying than ever.
 
 #### Communication Skills
 
-All my work-experience has been in Teaching (TEFL) and Hospitality. Controlling a room of twenty-plus students in a second language requires public speaking skills. My favourite part of hospitality was customer service (small talk) - me and a colleage once received a €400 tip.
+All my work-experience has been in Teaching (TEFL) and Hospitality. Controlling a room of twenty-plus students in a second language requires public speaking skills. My favourite part of hospitality was customer service (small talk) - me and a colleage once received a €400 tip. At Makers Academy no code is written alone (except on weekends). I enjoy both pairing and mobing. Colborating to the same code base is unlike any prior teamwork I've done and a skill I'm definitely learning here at Makers Academy.
 
 ## Education
 
@@ -34,7 +34,6 @@ All my work-experience has been in Teaching (TEFL) and Hospitality. Controlling 
 **University of Bristol** 2013 - 2016
 
 - BSc Mathematics (2:1)
-- Opted for Applied Mathematics modules.
 
 **A-Levels** 2012
 
@@ -46,7 +45,7 @@ All my work-experience has been in Teaching (TEFL) and Hospitality. Controlling 
 ## Work Experience
 
 **TEFL Teaching Assistant - BEDA (Tenerife, Spain)** 2016 - 2017
-- Responsible for preparing and teaching English to classes of up to 28 students.
+- Responsible for preparing and teaching English to classes of up to 25 students.
 
 
 **Catering Assistant - Anise Catering (Event Catering, Part-Time)** 2013
