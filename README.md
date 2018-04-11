@@ -1,6 +1,6 @@
 # Ricky Hewitt
 
-To cut to the chase, I'm a Junior Developer. 
+To cut to the chase, I'm a Junior Developer.
 
 ## Coding
 
@@ -21,7 +21,7 @@ In school I received UK Mathematical Trust Challenge (3 x Gold), British Physics
 
 #### Communication Skills
 
-All my work-experience has been in Teaching (TEFL) and Hospitality. Controlling a room of twenty-plus students in a second language requires public speaking skills. My favourite part of hospitality was customer service (small talk) - me and a colleage once received a €400 tip. At Makers Academy no code is written alone (except on weekends). I enjoy both pairing and mobing. Colborating to the same code base is unlike any prior teamwork I've done and a skill I'm definitely learning here at Makers Academy.
+All my work-experience has been in Teaching (TEFL) and Hospitality. Controlling a room of up to twenty-five students in a second language requires public speaking skills. My favourite part of hospitality was customer service (small talk) - me and a colleage once received a €400 tip. At Makers Academy no code is written alone (except on weekends). I enjoy both pairing and mobing. Colborating to the same code base is unlike any prior teamwork I've done and a skill I'm definitely learning here at Makers Academy.
 
 ## Education
 
@@ -45,7 +45,7 @@ All my work-experience has been in Teaching (TEFL) and Hospitality. Controlling 
 ## Work Experience
 
 **TEFL Teaching Assistant - BEDA (Tenerife, Spain)** 2016 - 2017
-- Responsible for preparing and teaching English to classes of up to 25 students.
+- Responsible for preparing and teaching English to classes of up to twenty-five students.
 
 
 **Catering Assistant - Anise Catering (Event Catering, Part-Time)** 2013
