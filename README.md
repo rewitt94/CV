@@ -1,6 +1,6 @@
 # Ricky Hewitt
 
-Hello prospective employers! I'm a Junior Developer.
+To cut to the chase, I'm a Junior Developer. 
 
 ## Coding
 
@@ -68,15 +68,12 @@ All my work-experience has been in Teaching (TEFL) and Hospitality. Controlling 
 - The Fairtrade Café team won the University of Bristol Student Leadership Award (2016).
 
 
-
 **Tutoring Maths & English in Quetzaltenango (Guatemala)** 2013
 
 **Tutoring Maths at St Mary’s Primary School (Reigate, UK)** 2011 - 2012
 
 ## Hobbies & Interests
 
-- Running: I went from smoking 10 ciggarettes a day to doing my first half marathon in September!
-- Writing: I was the only non-native in my writing classes in Tenerife (writing in Spanish). Sometimes I write about gypsies and alternate dimensions.
+- Exercise: Health has become super important in the last year; I completed my first Half Marathon in September
+- Writing: Both code and fiction.
 - Spanish: Learning Spanish has been a personal achievement.
-- Accountancy: Haha (not really).
-- Programming: Woooo-hoooo!
