@@ -6,7 +6,7 @@ To cut to the chase, I'm a Junior Developer.
 
 ## Coding
 
-## Redirect to my website for everything related to code: http://ricky.hewitt.tech/
+### Redirect to my website for everything related to code: http://ricky.hewitt.tech/
 
 ```
 As it is a React app I cannot link individual pages so here's a quick index:
