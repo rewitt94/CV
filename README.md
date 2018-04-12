@@ -19,7 +19,7 @@ As it is a React app I cannot link individual pages so here's a quick index:
 
 #### Problem-Solving
 
-Problem-solving relies on both my creativity and logic. I enjoy writing creative writing and was the only foreigner in my writing class in Tenerife. In school I received UK Mathematical Trust Challenge (3 x Gold), British Physics AS Olympiad (Silver), Cambridge Chemistry Challenge (Silver). I also won the 6th form Physics Prize. Since discovering programmming problem-solving is more satisfying than ever.
+Problem-solving relies on both creativity and logic. I enjoy creative writing and was the only foreigner in my writing class in Tenerife. In school I received UK Mathematical Trust Challenge (3 x Gold), British Physics AS Olympiad (Silver), Cambridge Chemistry Challenge (Silver). I also won the 6th form Physics Prize. Since discovering programmming problem-solving is more satisfying than ever.
 
 #### Communication Skills
 
